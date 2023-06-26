@@ -1,0 +1,39 @@
+PODS:
+  - Flutter (1.0.0)
+  - map4d_map (2.4.0):
+    - Flutter
+    - Map4dMap (~> 2.4.2)
+  - map4d_services (1.0.1):
+    - Flutter
+    - Map4dServices (~> 2.0.0)
+  - Map4dMap (2.4.2)
+  - Map4dServices (2.0.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - map4d_map (from `.symlinks/plugins/map4d_map/ios`)
+  - map4d_services (from `.symlinks/plugins/map4d_services/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Map4dMap
+    - Map4dServices
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  map4d_map:
+    :path: ".symlinks/plugins/map4d_map/ios"
+  map4d_services:
+    :path: ".symlinks/plugins/map4d_services/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  map4d_map: 0d5ea320dbd7967ce0ee9e4de71e4609bcd3ab73
+  map4d_services: 69d16540c975167e7322e65557a3ae8d9331a00b
+  Map4dMap: dfcf1464c9beed31132f857069c0c5e8ddbfc6eb
+  Map4dServices: 355a35105092c3ae808e7e20b449a89343252ded
+
+PODFILE CHECKSUM: fe0e1ee7f3d1f7d00b11b474b62dd62134535aea
+
+COCOAPODS: 1.10.1
