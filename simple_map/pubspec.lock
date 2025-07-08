@@ -111,10 +111,10 @@ packages:
     dependency: "direct main"
     description:
       name: map4d_map
-      sha256: "14b2e5862b06ce271ab7daffc2efa972097070370f6a2ed43d916905d26cfcd1"
+      sha256: "4506a36629b49c499142e2d6d95e478ef256d1097c4c4cf064c885bd96b262a8"
       url: "https://pub.dev"
     source: hosted
-    version: "2.5.3"
+    version: "2.6.0"
   matcher:
     dependency: transitive
     description:
